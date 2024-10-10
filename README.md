@@ -2,17 +2,12 @@
 
 *A blue blog.*
 
-> Example application for *[Python Web Development with Flask](https://helloflask.com/en/book/1)* (《[Flask Web 开发实战](https://helloflask.com/book/1)》).
-
-Demo: http://bluelog.helloflask.com
-
-![Screenshot](https://helloflask.com/screenshots/bluelog.png)
 
 ## Installation
 
-clone:111
+clone:
 ```
-$ git clone https://github.com/greyli/bluelog.git
+$ git clone https://github.com/Kerwin426/bluelog.git
 $ cd bluelog
 ```
 create & activate virtual env then install dependency:
